@@ -1,0 +1,4 @@
+#!/bin/sh
+
+say -v Daniel "You are logged in as"
+whoami | say -v Daniel

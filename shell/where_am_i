@@ -1,0 +1,4 @@
+#!/bin/sh
+
+say -v Daniel "You are logged in at station"
+hostname | tr '.' ' ' | awk {'print $1'} | say -v Daniel

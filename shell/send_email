@@ -1,0 +1,10 @@
+#!/bin/sh
+
+say -v Daniel 'Please type in the address you want to send this email too'
+read addr
+say -v Daniel 'And what would you like for the subject'
+read subj
+say -v Daniel 'Ok now type what you would like in the email, but dont make it too long. I dont have all day you know'
+read body
+echo $body | mail -s $subj $addr
+say -v Daniel 'your email, is on its way'

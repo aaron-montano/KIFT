@@ -1,0 +1,4 @@
+#!/bin/sh
+
+say -v Daniel "The current date is"
+ date | awk {'print $1, $2, $3, $6'} | say -v Daniel

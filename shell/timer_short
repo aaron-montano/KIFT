@@ -1,0 +1,4 @@
+#!/bin/sh
+
+sleep 60
+say -v Daniel times up oh; say -v Daniel ver blau

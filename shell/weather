@@ -1,0 +1,4 @@
+#!/bin/sh
+
+say -v Daniel "Here is a 3 day forecast"
+curl wttr.in

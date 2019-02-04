@@ -1,0 +1,3 @@
+#!/bin/sh
+
+say -v "Daniel" "What is your purpose? You pass butter."

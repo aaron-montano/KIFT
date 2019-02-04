@@ -1,0 +1,11 @@
+#!/bin/sh
+
+sleep 300
+say -v Daniel "Snap back to reality. Oh, there goes gravity, oh 
+there goes rabbit, he choked, he's so mad but he won't 
+give up that easy, no, he won't have it, he knows 
+his whole backs to these ropes, it don't matter, he's dope
+he knows that but he's broke, he's so stagnant, he knows
+when he goes back to the lab again yo, this whole rhapsody
+better go capture this moment and hope it don't pass him"
+osascript -e "beep 3"

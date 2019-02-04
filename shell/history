@@ -1,0 +1,8 @@
+#!/bin/sh
+
+say -v Daniel 'To see your browser history follow three simple steps'
+say -v Daniel 'Step one. On your computer, open Chrome.'
+say -v Daniel 'Step two. At the top right, click More, or the symbol that looks like three dots in a line'
+say -v Daniel 'Step three. Click history then in the sub menu click history again'
+say -v Zarvox 'Step four. Question mark, question mark, question mark. step five profit'
+say -v Zarvox 'You can also view your history with me on the web client'

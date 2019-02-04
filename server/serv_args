@@ -1,0 +1,1 @@
+-infile server/command.wav -lm server/pocket/model.lm.bin -dict server/pocket/dict.dic -logfn /dev/null -kws server/pocket/keyphrase

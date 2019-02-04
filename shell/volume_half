@@ -1,0 +1,4 @@
+#!/bin/sh
+
+osascript -e "set Volume 3.5"
+osascript -e "beep"
